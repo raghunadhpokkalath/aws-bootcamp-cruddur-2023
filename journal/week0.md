@@ -7,4 +7,4 @@ This week Summary
 
 
 ## Conceptual  Diagram  
-(resources/CruddurAppConceptualFlow.png)
+![image Conceptual Flow](resources/CruddurAppConceptualFlow.png)
