@@ -13,38 +13,38 @@
 
 Below is screenshot of Docker containers running lically including dynamoDb and postgres
 
-![image Docker running locally](resources/DynamoDB&Postgres.jpg)
+![image Docker running locally](resources/week1/DynamoDB&Postgres.jpg)
 
-![image Docker Compose locally](resources/docker-compose.jpg)
+![image Docker Compose locally](resources/week1/docker-compose.jpg)
 
 ## Runnning Front End locally
 
-![image Application running locally](resources/frontendscreenshot.jpg)
+![image Application running locally](resources/week1/frontendscreenshot.jpg)
 
 
 ## Verification of Notification API using postman
 
-![image Application running locally](resources/APIUsingPostman.jpg)
+![image Application running locally](resources/week1/APIUsingPostman.jpg)
 
 ## Verification of Notification API using postman
 
-![image Application running locally](resources/APIUsingPostman.jpg)
+![image Application running locally](resources/week1/APIUsingPostman.jpg)
 
 ## Verified Postgres connection
 
-![Postgres connection](resources/PostgresConnection.jpg)
+![Postgres connection](resources/week1/PostgresConnection.jpg)
 
 ## Verified Dynamo DB in GitPod 
 
-![Postgres connection](resources/DyanmoDbList.jpg)
+![Postgres connection](resources/week1/DyanmoDbList.jpg)
 
 ## Verified Dynamo DB in GitPod 
 
-![Postgres connection](resources/DyanmoDbList.jpg)
+![Postgres connection](resources/week1/DyanmoDbList.jpg)
 
 ## Verified using Gitpod UI
 
-![Postgres connection](resources/gitpodscreenshot.jpg)
+![Postgres connection](resources/week1/gitpodscreenshot.jpg)
 
 
 
