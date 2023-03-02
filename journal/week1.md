@@ -1,6 +1,6 @@
 # Week 1 — App Containerization
 ## Summary
--Watched all the video sessions.
+- Watched all the video sessions.
 - Containerized frontend and backend apps.
 - Created a Docker Compose file and included DynamoDB and PostgreSQL.
 - Updated API spec using OpenAPI specification.
@@ -11,8 +11,7 @@
 
 ## Docker and Docker-Compose running locally 
 
-Below is screenshot of Docker containers running lically including dynamoDb and postgres
-
+Below is screenshot of Docker containers running lically including dynamoDb and
 ![image Docker running locally](resources/week1/DynamoDB&Postgres.jpg)
 
 ![image Docker Compose locally](resources/week1/docker-compose.jpg)
